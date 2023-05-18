@@ -4,6 +4,6 @@
 
 #### Project description
 
-##### We will create an image search app that lets you search for any desired image. You can enter your search query and receive results accompanied by a description. The app is responsive and displays images in a single column on smaller ones. Using the Unsplash API, the app fetches up to 1000 unique and non-repetitive images. The modern CSS design ensures a fast and responsive user experience, making it enjoyable to search for cats, dogs, or any image.
+##### Let's develop an image search app that empowers you to effortlessly find any desired image. Simply enter your search query, and the app will provide you with a curated selection of results accompanied by descriptions. The app is designed to be responsive, adapting gracefully to smaller screens by displaying images in a single column. Leveraging the capabilities of the Unsplash API, the app retrieves up to 1000 unique and non-repetitive images for your exploration. With its modern CSS design, the app delivers a swift and responsive user experience, making the process of searching for images, whether it's cats, dogs, or any other subject, an enjoyable endeavor.
 
 ###### Live Demo - https://gm-imagesearch-app.netlify.app/
